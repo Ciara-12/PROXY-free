@@ -4,7 +4,7 @@
 
 ### Danh Sách Proxy Miễn Phí — Tự Động Cập Nhật
 
-[![Proxy Count](https://img.shields.io/badge/Tổng_Proxy-1_511-blue?style=for-the-badge&logo=serverless&logoColor=white)](https://github.com/Ciara-Aa/PROXY-free)
+[![Proxy Count](https://img.shields.io/badge/Tổng_Proxy-1_483-blue?style=for-the-badge&logo=serverless&logoColor=white)](https://github.com/Ciara-Aa/PROXY-free)
 [![Update](https://img.shields.io/badge/Cập_nhật-Mỗi_30_phút-green?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Ciara-Aa/PROXY-free/actions)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
@@ -16,26 +16,26 @@
 
 | Giao Thức | Số Lượng | Tải Về |
 | :---: | :---: | :---: |
-| 🔵 **HTTP** | `527` | [📄 http.txt](https://raw.githubusercontent.com/Ciara-Aa/PROXY-free/refs/heads/main/http.txt) |
-| 🟢 **HTTPS** | `8` | [📄 https.txt](https://raw.githubusercontent.com/Ciara-Aa/PROXY-free/refs/heads/main/https.txt) |
-| 🟠 **SOCKS4** | `259` | [📄 socks4.txt](https://raw.githubusercontent.com/Ciara-Aa/PROXY-free/refs/heads/main/socks4.txt) |
-| 🔴 **SOCKS5** | `717` | [📄 socks5.txt](https://raw.githubusercontent.com/Ciara-Aa/PROXY-free/refs/heads/main/socks5.txt) |
+| 🔵 **HTTP** | `469` | [📄 http.txt](https://raw.githubusercontent.com/Ciara-Aa/PROXY-free/refs/heads/main/http.txt) |
+| 🟢 **HTTPS** | `4` | [📄 https.txt](https://raw.githubusercontent.com/Ciara-Aa/PROXY-free/refs/heads/main/https.txt) |
+| 🟠 **SOCKS4** | `209` | [📄 socks4.txt](https://raw.githubusercontent.com/Ciara-Aa/PROXY-free/refs/heads/main/socks4.txt) |
+| 🔴 **SOCKS5** | `801` | [📄 socks5.txt](https://raw.githubusercontent.com/Ciara-Aa/PROXY-free/refs/heads/main/socks5.txt) |
 
 ## 📊 Thống Kê
 
 ```mermaid
 pie title Phân Loại Proxy
-    "HTTP" : 527
-    "HTTPS" : 8
-    "SOCKS4" : 259
-    "SOCKS5" : 717
+    "HTTP" : 469
+    "HTTPS" : 4
+    "SOCKS4" : 209
+    "SOCKS5" : 801
 ```
 
 <div align="center">
 
 | 📈 Chỉ Số | Giá Trị |
 | :--- | :---: |
-| **Tổng Proxy** | **1,511** |
+| **Tổng Proxy** | **1,483** |
 | **Nguồn thu thập** | **10** |
 | **Tần suất cập nhật** | **Mỗi 2 giờ** |
 | **Định dạng** | `IP:PORT # TYPE [CC]` |
@@ -46,7 +46,7 @@ pie title Phân Loại Proxy
 
 <div align="center">
 
-**📅 Cập nhật lần cuối: `16/05/2026 03:17:13`** (GMT+7)
+**📅 Cập nhật lần cuối: `16/05/2026 04:34:52`** (GMT+7)
 
 ⭐ Nếu dự án hữu ích, hãy bấm **Star** để ủng hộ!
 
